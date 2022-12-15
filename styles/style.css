@@ -44,11 +44,11 @@
 .header__subtitle {
   margin: 0;
   position: absolute;
-  bottom: 30px;;
+  bottom: 30px;
   left: 64px;
   z-index: 2;
   width: 388px;
-  line-height: 25px ;
+  line-height: 25px;
   font-size: 18px;
   font-weight: normal;
 }
@@ -81,8 +81,6 @@
   display: flex;
   margin: auto;
   justify-content: space-between;
-  width: 80%;
-  min-width: 784px;
 }
 
 .two-columns__brief {
