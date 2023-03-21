@@ -9,3 +9,7 @@
 * файловая структура по БЭМ Nested
 
 В планах  адаптировать сайт для различных устройств.
+
+Результат [тут](https://larisakindalova.github.io/how-to-learn/index.html)
+
+![image](https://user-images.githubusercontent.com/120237097/226641335-810324a9-399d-4a64-9296-54b277bf7be4.png)
